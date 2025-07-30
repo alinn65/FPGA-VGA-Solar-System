@@ -15,6 +15,7 @@ This project simulates a simple 2D solar system on an FPGA using VGA output. It 
   - Venus: red
   - Earth: blue & green
 - Fully modular Verilog design — easy to extend
+- Using Python to generate coordinates for each angle on the orbit
 
 ---
 
