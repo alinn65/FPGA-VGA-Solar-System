@@ -1,4 +1,4 @@
-# 🌌 FPGA VGA Solar System
+# 🌌 FPGA VGA Solar System (Basys-3)
 
 This project simulates a simple 2D solar system on an FPGA using VGA output. It visualizes the Sun at the center and three planets — **Mercury**, **Venus**, and **Earth** — orbiting in real time along circular paths.
 
